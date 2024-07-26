@@ -1,6 +1,5 @@
 👋 Hi, I’m Alex
-- 👨🏻‍💻 I’m currently learning elixir
-- 📷 I love photografy
+- 👨🏻‍💻 I’m currently learning Elixir.
 
 <!---
 alepedraza/alepedraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
